@@ -1,0 +1,84 @@
+{
+  "id": 27,
+  "created_at": "2025-01-23T00:00:00Z",
+  "seo_title": "Gohighlevel Downloader - Free Content Download Tool",
+  "seo_description": null,
+  "product_page_url": "https://store.serp.co/product-details/product/gohighlevel-downloader",
+  "purchase_url": "https://serp.ly/gohighlevel-downloader",
+  "store_product_id": null,
+  "name": "Gohighlevel Downloader",
+  "tagline": "Export GoHighLevel funnels, courses, and automation workflows",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/gohighlevel-downloader/assets/images/gohighlevel-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/gohighlevel-downloader/assets/images/gohighlevel-downloader.gif",
+  "github_repo_url": "https://github.com/serpapps/gohighlevel-downloader",
+  "github_repo_tags": [
+    "gohighlevel-downloader"
+  ],
+  "github_gist_url": null,
+  "features": [
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
+  ],
+  "chrome_web_store_url": null,
+  "description": "Gohighlevel Downloader is a powerful tool that helps you download content from Gohighlevel instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "product_video": null,
+  "related_videos": null,
+  "changelog": null,
+  "version_number": 1,
+  "updated_at": "2025-01-23T00:00:00Z",
+  "troubleshooting_instructions": [],
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/gohighlevel-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "usage_instructions": [
+    "Open the application",
+    "Enter the URL of the content you want to download",
+    "Select your preferred quality and format",
+    "Click download to start the process",
+    "Files will be saved to your specified directory"
+  ],
+  "faqs": null,
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "status": "live",
+  "technologies": [
+    "Python",
+    "JavaScript",
+    "Node.js",
+    "Automation"
+  ],
+  "serpco_product_page_link": "https://serp.co/products/gohighlevel-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/gohighlevel-downloader/reviews/",
+  "file_formats": null,
+  "categories": [
+    "product marketplace"
+  ],
+  "extraction_targets": null,
+  "content_medium": null,
+  "discovery_source": null,
+  "related_articles": null,
+  "related_gists": null,
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "devinschumacher"
+  ],
+  "funding_links_opencollective": [
+    "devinschumacher"
+  ],
+  "funding_links_custom": [
+    "https://serpapps.github.io/gohighlevel-downloader",
+    "https://devinschumacher.com/gohighlevel-downloader",
+    "https://serp.co/products/gohighlevel-downloader/",
+    "https://github.com/sponsors/devinschumacher"
+  ],
+  "keywords": [
+    "gohighlevel downloader"
+  ]
+}
