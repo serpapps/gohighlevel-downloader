@@ -12,15 +12,15 @@ GoHighLevel Downloader is a browser extension built for users who want a simpler
 
 ## Links
 
-- 🚀 Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/gohighlevel-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/gohighlevel-downloader/issues)
+- ðŸš€ Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/gohighlevel-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/gohighlevel-downloader/issues)
 
 ## Preview
 
-![GoHighLevel Downloader workflow preview](assets/workflow-preview.svg)
+![GoHighLevel Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
