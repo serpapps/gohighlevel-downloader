@@ -15,8 +15,6 @@ Use the product page above to get the browser extension and install instructions
 
 ![GoHighLevel Downloader](https://raw.githubusercontent.com/serpapps/gohighlevel-downloader/main/images/gohighlevel-downloader.gif)
 
-Browser extension for saving GoHighLevel lessons, classroom recordings, and supported embedded videos as MP4 from your authenticated browser session.
-
 ## What It Does
 
 - Detects GoHighLevel native videos plus YouTube, Vimeo, Wistia, Loom, and custom embeds
