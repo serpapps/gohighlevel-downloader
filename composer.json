@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/gohighlevel-downloader",
+    "type": "library",
+    "description": "Download videos from gohighlevel course areas",
+    "keywords": [
+        "gohighlevel-downloader",
+        "highlevel-downloader",
+        "browser-extension",
+        "course-video-downloader",
+        "membership-site-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/gohighlevel-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
