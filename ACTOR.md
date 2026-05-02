@@ -2,18 +2,9 @@
 
 > Save GoHighLevel content instantly to your device.
 
-## Get the extension
+## Get it Here
 
-**Install here:** [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader)
-
-Use the product page above to get the browser extension and install instructions.
-
-- Product page: https://serp.ly/gohighlevel-downloader
-- Chrome Web Store: https://chromewebstore.google.com/detail/gohighlevel-downloader/lcnajelpdoefgoilcihnpkofabpafjgd
-- GitHub repo: https://github.com/serpapps/gohighlevel-downloader
-- Latest release: https://github.com/serpapps/gohighlevel-downloader/releases/latest
-
-![GoHighLevel Downloader](https://raw.githubusercontent.com/serpapps/gohighlevel-downloader/main/images/gohighlevel-downloader.gif)
+Get it here: https://serp.ly/gohighlevel-downloader
 
 ## What It Does
 
