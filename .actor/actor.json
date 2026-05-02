@@ -4,7 +4,7 @@
   "description": "Browser extension for saving GoHighLevel lessons, classroom recordings, and supported embedded videos as MP4 from your authenticated browser session.",
   "input": "./INPUT_SCHEMA.json",
   "name": "gohighlevel-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "GoHighLevel Downloader",
   "version": "0.0"
 }
