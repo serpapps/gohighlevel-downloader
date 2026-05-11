@@ -10,12 +10,6 @@ GoHighLevel Downloader is a browser extension built for users who want a simpler
 - Choose from the quality levels exposed by the source
 - Keep local copies for offline study, review, or client training archives
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=1ktvV0BfBEI" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gohighlevel-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader)
@@ -26,7 +20,9 @@ GoHighLevel Downloader is a browser extension built for users who want a simpler
 
 ## Preview
 
-![GoHighLevel Downloader workflow preview](https://raw.githubusercontent.com/serpapps/gohighlevel-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=1ktvV0BfBEI" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gohighlevel-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
