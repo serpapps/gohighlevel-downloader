@@ -1,11 +1,5 @@
 # GoHighLevel Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=1ktvV0BfBEI" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gohighlevel-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
 > Download videos from GoHighLevel portals, memberships, course pages, and supported embedded lesson players as MP4 files.
 
 GoHighLevel Downloader is a browser extension built for users who want a simpler way to save training and course videos from GoHighLevel-powered portals. It works with supported GoHighLevel-hosted streams and common embedded lesson providers, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
