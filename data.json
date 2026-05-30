@@ -7,8 +7,8 @@
   "main_video": "https://www.youtube.com/watch?v=1ktvV0BfBEI",
   "featured_image": "https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gohighlevel-videos-for-free-chrome-extension-method.jpg",
   "screenshots": [],
-  "chromestore_link": "",
-  "firefoxstore_link": "",
+  "chromestore_link": "https://chromewebstore.google.com/detail/downloader-for-gohighleve/lcnajelpdoefgoilcihnpkofabpafjgd",
+  "firefoxstore_link": "https://addons.mozilla.org/en-US/firefox/addon/gohighlevel-downloader/",
   "other_links": [],
   "faqs": [
     {
@@ -39,6 +39,11 @@
     }
   ],
   "features": [
+    "Save GoHighLevel lesson videos as MP4 files",
+    "Download supported GoHighLevel-hosted streams from portal and membership pages",
+    "Capture supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube",
+    "Choose from the quality levels exposed by the source",
+    "Keep local copies for offline study, review, or client training archives",
     "Video detection for GoHighLevel portal, course, and membership pages",
     "Support for GoHighLevel-hosted lesson streams",
     "Embedded lesson support for Loom, Vimeo, Wistia, and YouTube",
@@ -51,8 +56,8 @@
   ],
   "content": {
     "why": [
-      "GoHighLevel portals often mix native video delivery with embedded training players like Loom, Vimeo, Wistia, and YouTube.",
-      "GoHighLevel Downloader focuses on supported portal and membership pages, detects available lesson media in the browser session, and saves accessible training content as MP4."
+      "GoHighLevel portals often mix native video delivery with embedded training players like Loom, Vimeo, Wistia, and YouTube. That creates a messy download experience because there is no built-in portal-wide export flow, and generic downloader tools do not recognize the full GoHighLevel environment reliably.",
+      "GoHighLevel Downloader is built for that exact use case. It focuses on supported portal and membership pages, detects the available lesson media in your browser session, and gives you a direct way to save accessible training content as MP4."
     ],
     "how_it_works": [
       "Install the extension from the latest release.",
@@ -62,43 +67,140 @@
       "Choose the quality you want.",
       "Download the lesson and save the final MP4 file locally."
     ],
+    "tutorial": [
+      "Install GoHighLevel Downloader from the latest GitHub release.",
+      "Sign in to the GoHighLevel portal or membership area where you have access.",
+      "Open the lesson page you want to save.",
+      "Let the page load fully and press play on the lesson video.",
+      "Click the extension button in your browser toolbar.",
+      "Review the detected stream or embedded player options.",
+      "Select the quality you want to keep.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Open the saved file from your Downloads folder."
+    ],
     "supported_formats": [
       "Input: GoHighLevel-hosted lesson streams",
       "Input: Supported embedded Loom, Vimeo, Wistia, and YouTube players",
-      "Output: MP4"
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, and keep in a local training archive."
+    ],
+    "target_users": [
+      "Agency owners saving training content from client portals",
+      "Coaches and course creators backing up their own lessons",
+      "Membership users who want offline access to lessons",
+      "Teams archiving internal onboarding, SOP, or training videos",
+      "Anyone who wants a browser-based workflow instead of manual stream extraction"
     ],
     "use_cases": [
-      "Save a GoHighLevel course lesson for offline study.",
-      "Download training videos from a membership portal.",
-      "Archive your own uploaded video lessons.",
-      "Save embedded Loom or Vimeo walkthroughs inside GoHighLevel.",
-      "Keep local copies of training content before access changes."
+      "Save a GoHighLevel course lesson for offline study",
+      "Download training videos from a membership portal",
+      "Archive your own uploaded video lessons",
+      "Save embedded Loom or Vimeo walkthroughs inside GoHighLevel",
+      "Keep local copies of training content before access changes"
     ],
     "troubleshooting": [
-      "If the lesson video is not detected, press play first and wait a few seconds.",
-      "Some pages expose a single playable stream variant.",
-      "If the wrong player source is picked up, refresh after the lesson player fully loads.",
-      "The extension only works on content you can already access in your active GoHighLevel session."
+      "The extension is not detecting the lesson video Press play first and wait a few seconds so the stream has time to initialize.",
+      "No quality options are showing Some pages expose a single playable stream variant, especially on certain embedded players.",
+      "The wrong player source is being picked up Refresh the lesson page and reopen the extension popup after the lesson player fully loads.",
+      "The page requires login or membership access The extension only works on content you can already access in your active GoHighLevel session.",
+      "The extension does not activate on this site Make sure you are on an actual GoHighLevel-powered portal or membership page, not a different platform."
     ],
     "trial_access": [
-      "Includes 3 free downloads.",
-      "Email sign-in uses one-time password verification.",
-      "No credit card required for the trial.",
-      "Unlimited downloads are available with a paid license."
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
     ],
     "installation_instructions": [
-      "Open https://github.com/serpapps/gohighlevel-downloader/releases/latest",
       "Download the extension build for your browser.",
       "Install the extension.",
       "Open a GoHighLevel lesson or membership page.",
       "Use the extension popup to detect and download the video."
     ],
     "notes": [
-      "Only download content you own or have explicit permission to save.",
-      "The extension only works on media you can already play in your browser session.",
-      "Video quality depends on the source stream exposed on that lesson page.",
-      "An internet connection is required for the initial download."
+      "Only download content you own or have explicit permission to save",
+      "The extension only works on media you can already play in your browser session",
+      "Video quality depends on the source stream exposed on that lesson page",
+      "An internet connection is required for the initial download"
+    ],
+    "about": [
+      "GoHighLevel is used for memberships, training portals, client education, and course delivery. Because those pages can mix native lesson media with several embedded platforms, there is no single clean built-in export workflow for viewers. GoHighLevel Downloader simplifies that process for users who need a local MP4 copy of accessible training content."
     ]
   },
-  "serpx_link": "https://serpx.com/gohighlevel-downloader"
+  "serpx_link": "https://serpx.link/gohighlevel-downloader",
+  "github_topics": [
+    "gohighlevel-download",
+    "gohighlevel-downloader",
+    "gohighlevel-video-downloader",
+    "gohighlevel-video-downloader-online",
+    "gohighlevel-video-downloader-mac",
+    "gohighlevel-video-downloader-window",
+    "gohighlevel-video-downloader-free",
+    "gohighlevel-video-downloader-extension",
+    "gohighlevel-video-downloader-app",
+    "gohighlevel-video-downloader-chrome",
+    "gohighlevel-video-downloader-from-url",
+    "how-to-download-gohighlevel-videos",
+    "how-to-download-gohighlevel-videos-mac",
+    "how-to-download-gohighlevel-videos-windows",
+    "how-to-download-gohighlevel-videos-online",
+    "how-to-download-gohighlevel-videos-free",
+    "how-to-download-from-gohighlevel",
+    "how-to-download-videos-from-gohighlevel",
+    "download-gohighlevel-videos",
+    "gohighlevel-video-tutorial",
+    "save-gohighlevel-videos",
+    "gohighlevel-video-content-saver",
+    "how-to-download-gohighlevel-videos-for-free"
+  ],
+  "hashtags": [
+    "#GoHighLevelDownload",
+    "#GoHighLevelDownloader",
+    "#GoHighLevelVideoDownloader",
+    "#GoHighLevelVideoDownloaderOnline",
+    "#GoHighLevelVideoDownloaderMac",
+    "#GoHighLevelVideoDownloaderWindow",
+    "#GoHighLevelVideoDownloaderFree",
+    "#GoHighLevelVideoDownloaderExtension",
+    "#GoHighLevelVideoDownloaderApp",
+    "#GoHighLevelVideoDownloaderChrome",
+    "#GoHighLevelVideoDownloaderFromURL",
+    "#HowToDownloadGoHighLevelVideos",
+    "#HowToDownloadGoHighLevelVideosMac",
+    "#HowToDownloadGoHighLevelVideosWindows",
+    "#HowToDownloadGoHighLevelVideosOnline",
+    "#HowToDownloadGoHighLevelVideosFree",
+    "#HowToDownloadFromGoHighLevel",
+    "#HowToDownloadVideosFromGoHighLevel",
+    "#DownloadGoHighLevelVideos",
+    "#GoHighLevelVideoTutorial",
+    "#SaveGoHighLevelVideos",
+    "#GoHighLevelVideoContentSaver",
+    "#HowToDownloadGoHighLevelVideosForFree"
+  ],
+  "youtube_tags": [
+    "GoHighLevel Download",
+    "GoHighLevel Downloader",
+    "GoHighLevel Video Downloader",
+    "GoHighLevel Video Downloader Online",
+    "GoHighLevel Video Downloader Mac",
+    "GoHighLevel Video Downloader Window",
+    "GoHighLevel Video Downloader Free",
+    "GoHighLevel Video Downloader Extension",
+    "GoHighLevel Video Downloader App",
+    "GoHighLevel Video Downloader Chrome",
+    "GoHighLevel Video Downloader From URL",
+    "How To Download GoHighLevel Videos",
+    "How To Download GoHighLevel Videos Mac",
+    "How To Download GoHighLevel Videos Windows",
+    "How To Download GoHighLevel Videos Online",
+    "How To Download GoHighLevel Videos Free",
+    "How To Download From GoHighLevel",
+    "How To Download Videos From GoHighLevel",
+    "Download GoHighLevel Videos",
+    "GoHighLevel Video Tutorial",
+    "Save GoHighLevel Videos",
+    "GoHighLevel Video Content Saver",
+    "How To Download GoHighLevel Videos For Free"
+  ]
 }
