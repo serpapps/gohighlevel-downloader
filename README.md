@@ -1,4 +1,4 @@
-# GoHighLevel Downloader (Browser Extension)
+# GoHighLevel Video Downloader (Browser Extension)
 
 > Download videos from GoHighLevel portals, memberships, course pages, and supported embedded lesson players as MP4 files.
 
@@ -12,7 +12,7 @@ GoHighLevel Downloader is a browser extension built for users who want a simpler
 
 ## Links
 
-- :rocket: Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader)
+- :rocket: Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/gohighlevel-downloader/issues)
@@ -127,7 +127,7 @@ Make sure you are on an actual GoHighLevel-powered portal or membership page, no
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/gohighlevel-downloader](https://serp.ly/gohighlevel-downloader)
+Start here: [https://serp.ly/gohighlevel-downloader?via=github](https://serp.ly/gohighlevel-downloader?via=github)
 
 ## Installation Instructions
 
