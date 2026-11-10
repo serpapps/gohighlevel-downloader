@@ -1,171 +1,162 @@
-# GoHighLevel Video Downloader (Browser Extension)
+# GoHighLevel Video Downloader (Browser Extension) | How to Download GoHighLevel Videos
 
-> Download videos from GoHighLevel portals, memberships, course pages, and supported embedded lesson players as MP4 files.
+> Browser extension that downloads GoHighLevel (HighLevel) course, membership and client-portal videos as MP4, including native HLS lessons and Loom, Vimeo, Wistia and YouTube embeds.
 
-GoHighLevel Downloader is a browser extension built for users who want a simpler way to save training and course videos from GoHighLevel-powered portals. It works with supported GoHighLevel-hosted streams and common embedded lesson providers, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
+GoHighLevel Video Downloader is a browser extension for saving the GoHighLevel course and membership videos you have access to, including white-label portals on their own domain. Open a lesson, press play, click the extension and save the video as MP4.
 
-- Save GoHighLevel lesson videos as MP4 files
-- Download supported GoHighLevel-hosted streams from portal and membership pages
-- Capture supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube
-- Choose from the quality levels exposed by the source
-- Keep local copies for offline study, review, or client training archives
-
-## Links
-
-- :rocket: Get it here: [GoHighLevel Downloader](https://serp.ly/gohighlevel-downloader?via=github)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/gohighlevel-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/gohighlevel-downloader/issues)
-
-## Preview
+- Download GoHighLevel course, membership and client-portal videos as MP4
+- Native GoHighLevel HLS lessons are processed in the browser
+- Embedded Loom, Vimeo, Wistia and YouTube lesson players are supported
+- Works on many white-label / custom-domain portals
+- Choose where each file is saved with the Save As dialog
 
 <a href="https://www.youtube.com/watch?v=1ktvV0BfBEI" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gohighlevel-videos-for-free-chrome-extension-method.jpg" width="700px">
 </a>
 
-## Table of Contents
+## Links
 
-- [Why GoHighLevel Downloader](#why-gohighlevel-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Videos from GoHighLevel](#step-by-step-tutorial-how-to-download-videos-from-gohighlevel)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [Notes](#notes)
-- [About GoHighLevel](#about-gohighlevel)
+- :rocket: Get it here: [GoHighLevel Video Downloader](https://serp.ly/gohighlevel-downloader?via=github)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/gohighlevel-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/gohighlevel-downloader/issues)
 
-## Why GoHighLevel Downloader
+## Why GoHighLevel Video Downloader
 
-GoHighLevel portals often mix native video delivery with embedded training players like Loom, Vimeo, Wistia, and YouTube. That creates a messy download experience because there is no built-in portal-wide export flow, and generic downloader tools do not recognize the full GoHighLevel environment reliably.
+GoHighLevel courses and memberships are often delivered through white-label portals on an agency's own
+domain, with native streamed (HLS) video or embedded players. There is no download button, and portal
+access can change when a subscription ends.
 
-GoHighLevel Downloader is built for that exact use case. It focuses on supported portal and membership pages, detects the available lesson media in your browser session, and gives you a direct way to save accessible training content as MP4.
+GoHighLevel Video Downloader recognizes the GoHighLevel portal environment even on branded domains,
+detects the lesson video and saves it as an MP4 on your computer.
 
 ## Features
 
-- Video detection for GoHighLevel portal, course, and membership pages
-- Support for GoHighLevel-hosted lesson streams
-- Embedded lesson support for Loom, Vimeo, Wistia, and YouTube
-- Quality selection for available stream resolutions
-- MP4 export for easier offline playback and sharing
-- Popup workflow for reviewing detected lesson media
-- Progress tracking during active downloads
-- Concurrent download support for supported workflows
-- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- **Native GoHighLevel video**: detects the HLS stream, processes it locally and saves MP4
+- **Embedded players**: Loom, Vimeo, Wistia and YouTube inside GoHighLevel pages
+- **White-label portals**: checks for GoHighLevel page markers, so branded domains work in many cases
+- **Quality selection**: choose from available stream resolutions
+- **Save As dialog**: you choose where each completed file goes
+- **Download manager**: a few downloads at once with progress
+- **Private by design**: detection, HLS processing and MP4 generation run in your browser
 
-## How It Works
+## Supported Browsers
 
-1. Install the extension from the latest release.
-2. Open a GoHighLevel membership, course lesson, or portal page with video.
-3. Start playback so the extension can detect the lesson media.
-4. Open the popup to review available stream options.
-5. Choose the quality you want.
-6. Download the lesson and save the final MP4 file locally.
+| Browser | Supported |
+|---|---|
+| Google Chrome | ✅ |
+| Microsoft Edge | ✅ |
+| Brave | ✅ |
+| Opera | ✅ |
+| Naver Whale | ✅ |
+| Yandex Browser | ✅ |
+| Firefox, Safari, mobile browsers | ❌ Not supported |
 
-## Step-by-Step Tutorial: How to Download Videos from GoHighLevel
+Works on Windows, macOS and Linux desktops. Every release ships one ZIP per browser
+(for example `gohighlevel-downloader-chrome.zip`).
 
-1. Install GoHighLevel Downloader from the latest GitHub release.
-2. Sign in to the GoHighLevel portal or membership area where you have access.
-3. Open the lesson page you want to save.
-4. Let the page load fully and press play on the lesson video.
-5. Click the extension button in your browser toolbar.
-6. Review the detected stream or embedded player options.
-7. Select the quality you want to keep.
-8. Start the download and wait for the MP4 export to finish.
-9. Open the saved file from your Downloads folder.
+## How to Download GoHighLevel Videos (Step-by-Step)
+
+1. Install the extension (see [Installation Instructions](#installation-instructions)) and sign in with your email.
+2. Sign in to the GoHighLevel portal and open the lesson.
+3. Press play so the video source loads.
+4. Click the extension icon, choose a quality, and pick where to save the MP4 in the Save As dialog.
 
 ## Supported Formats
 
-- Input: GoHighLevel-hosted lesson streams
-- Input: Supported embedded Loom, Vimeo, Wistia, and YouTube players
-- Output: MP4
-
-Saved files use MP4 so they are easier to replay on standard media players, move between devices, and keep in a local training archive.
+- **Output:** MP4
+- **Sources:** native GoHighLevel HLS lessons; Loom, Vimeo, Wistia and YouTube embeds
 
 ## Who It's For
 
-- Agency owners saving training content from client portals
-- Coaches and course creators backing up their own lessons
-- Membership users who want offline access to lessons
-- Teams archiving internal onboarding, SOP, or training videos
-- Anyone who wants a browser-based workflow instead of manual stream extraction
-
-## Common Use Cases
-
-- Save a GoHighLevel course lesson for offline study
-- Download training videos from a membership portal
-- Archive your own uploaded video lessons
-- Save embedded Loom or Vimeo walkthroughs inside GoHighLevel
-- Keep local copies of training content before access changes
+- **Members and clients** of GoHighLevel-powered courses and portals
+- **Agency customers** keeping training offline
+- **Agencies** backing up their own course content
 
 ## Troubleshooting
 
-**The extension is not detecting the lesson video**  
-Press play first and wait a few seconds so the stream has time to initialize.
+**The video is not detected**  
+Press play first so the source loads, then click the extension again. Refresh if needed.
 
-**No quality options are showing**  
-Some pages expose a single playable stream variant, especially on certain embedded players.
+## Free Trial & Pricing
 
-**The wrong player source is being picked up**  
-Refresh the lesson page and reopen the extension popup after the lesson player fully loads.
+You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
 
-**The page requires login or membership access**  
-The extension only works on content you can already access in your active GoHighLevel session.
-
-**The extension does not activate on this site**  
-Make sure you are on an actual GoHighLevel-powered portal or membership page, not a different platform.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/gohighlevel-downloader?via=github](https://serp.ly/gohighlevel-downloader?via=github)
+- Sign in with your email and a one-time code; no password to create.
+- Your free downloads reset every week. In current versions only finished downloads count; a failed or cancelled download does not use one.
+- See current plans on the [product page](https://serp.ly/gohighlevel-downloader?via=github).
 
 ## Installation Instructions
 
-1. Open the latest release page:
-   [https://github.com/serpapps/gohighlevel-downloader/releases/latest](https://github.com/serpapps/gohighlevel-downloader/releases/latest)
-2. Download the extension build for your browser.
-3. Install the extension.
-4. Open a GoHighLevel lesson or membership page.
-5. Use the extension popup to detect and download the video.
+1. Download the ZIP for your browser from the [latest release](https://github.com/serpapps/gohighlevel-downloader/releases/latest) (for example `gohighlevel-downloader-chrome.zip`).
+2. Unzip it. You get a folder that contains `manifest.json`.
+3. Open your browser's extensions page: `chrome://extensions` (Chrome), `edge://extensions` (Edge), `brave://extensions` (Brave), `opera://extensions` (Opera), `whale://extensions` (Whale) or `browser://extensions` (Yandex).
+4. Turn on **Developer mode**.
+5. Click **Load unpacked** and select the unzipped folder.
+6. Pin the extension, click its icon, and sign in with your email and the one-time code we send you.
+
+Prefer a guided setup? The [product page](https://serp.ly/gohighlevel-downloader?via=github) walks you through the same steps.
+When a newer version is published, the extension shows an update notice; download the new ZIP from
+[GitHub Releases](https://github.com/serpapps/gohighlevel-downloader/releases/latest) and load it the same way.
 
 ## FAQ
 
-**What kinds of GoHighLevel videos can I download?**  
-Supported GoHighLevel lesson videos plus supported embedded lesson players inside GoHighLevel portals and memberships.
+### How do I download GoHighLevel videos?
 
-**Do I need to press play first?**  
-Yes. Many lesson streams are only exposed after playback begins.
+Open the portal page, press play so the source loads, then click the extension icon and choose the quality you want. The browser Save As dialog lets you pick where the MP4 is stored.
 
-**What file format do downloads use?**  
-Videos are saved as MP4 files.
+### What GoHighLevel pages does it work on?
 
-**Does it support embedded lesson providers?**  
-Yes. Supported platforms include Loom, Vimeo, Wistia, and YouTube when they appear on supported GoHighLevel pages.
+GoHighLevel portals, membership areas, course pages and many white-label deployments that use the same client-portal framework.
 
-**Do I need extra software?**  
-No. Everything runs through the browser extension.
+### Does it work on white-label or custom domains?
+
+Yes, in many cases. The extension recognizes the GoHighLevel portal environment even when it is delivered through a branded domain.
+
+### Does it support native GoHighLevel video?
+
+Yes. When a lesson uses native HLS video, the extension processes the stream locally and saves the final file as MP4.
+
+### Which embedded players are supported?
+
+Loom, Vimeo, Wistia and YouTube, when those videos are accessible in your session.
+
+### Can I download a full course in one click?
+
+No. It downloads one video at a time, with a few active jobs in the download manager. It is not a full-course bulk exporter.
+
+### Does it work on Circle, Skool or Kajabi?
+
+No. Those platforms have their own SERP extensions: [Circle](https://github.com/serpapps/circle-downloader), [Skool](https://github.com/serpapps/skool-downloader) and [Kajabi](https://github.com/serpapps/kajabi-video-downloader).
+
+### Which browsers are supported?
+
+Chrome, Edge, Brave, Opera, Whale and Yandex on Windows, macOS and Linux. Firefox, Safari and mobile browsers are not supported.
+
+### Is there a free trial?
+
+Yes. You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
+
+## Notes
+
+- Only download content you own or have permission to save.
+- The extension works with videos your own account can already watch in the browser. It does not unlock paid, private or locked content.
+- Quality depends on what the source player serves; the extension cannot make a video sharper than the original.
+- Site updates can affect detection. If something stops working, [open an issue](https://github.com/serpapps/gohighlevel-downloader/issues) and include the page type (not private links).
 
 ## License
 
 This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
-## Notes
+## Related
 
-- Only download content you own or have explicit permission to save
-- The extension only works on media you can already play in your browser session
-- Video quality depends on the source stream exposed on that lesson page
-- An internet connection is required for the initial download
+- [Kajabi Video Downloader](https://github.com/serpapps/kajabi-video-downloader)
+- [Skool Video Downloader](https://github.com/serpapps/skool-downloader)
+- [Circle Downloader](https://github.com/serpapps/circle-downloader)
 
 ## About GoHighLevel
 
-GoHighLevel is used for memberships, training portals, client education, and course delivery. Because those pages can mix native lesson media with several embedded platforms, there is no single clean built-in export workflow for viewers. GoHighLevel Downloader simplifies that process for users who need a local MP4 copy of accessible training content.
+GoHighLevel (HighLevel) is a marketing and CRM platform used by agencies, which includes course,
+membership and community features, often white-labeled on the agency's own domain. GoHighLevel Video
+Downloader saves the lesson videos you have access to.
